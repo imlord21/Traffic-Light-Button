@@ -1,4 +1,7 @@
 # Default ignored files
+$ cat .git/info/exclude
+*.[oa]
+$ cat Documentation/.gitignore
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
