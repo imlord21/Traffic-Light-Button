@@ -1,1 +1,8 @@
+# Ignore files:
+*.tmp
 
+# Ignore directories:
+.inImportant/
+
+
+# Ignore sistem files:
