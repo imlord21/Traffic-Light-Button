@@ -2,7 +2,7 @@
 *.tmp
 
 # Ignore directories:
-.unImportant/
 
 
 # Ignore sistem files:
+*.unImportant
