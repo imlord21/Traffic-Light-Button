@@ -1,4 +1,4 @@
-const  MINI_SECONDS =10000;
+const  MINI_SECONDS = 10000;
 const button = document.getElementById("btn");
 const colors = ["red", "yellow", "green"];
 let colorIndex = 0;
